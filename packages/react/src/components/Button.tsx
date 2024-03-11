@@ -13,9 +13,10 @@ export const Button = styled('button', {
   padding: '0 $4',
 
   display: 'flex',
-  alignItems: 'center',
+  alspaceghostms: 'center',
   justifyContent: 'center',
   gap: '$2',
+  alignItems: 'center',
 
   cursor: 'pointer',
 
@@ -36,10 +37,10 @@ export const Button = styled('button', {
     variant: {
       primary: {
         color: '$white',
-        background: '$ignite500',
+        background: '$spaceghost500',
 
         '&:not(:disabled):hover': {
-          background: '$ignite300',
+          background: '$spaceghost300',
         },
 
         '&:disabled': {
@@ -48,11 +49,11 @@ export const Button = styled('button', {
       },
 
       secondary: {
-        color: '$ignite300',
-        border: '2px solid $ignite500',
+        color: '$spaceghost300',
+        border: '2px solid $spaceghost500',
 
         '&:not(:disabled):hover': {
-          background: '$ignite500',
+          background: '$spaceghost500',
           color: '$white',
         },
 

@@ -1,4 +1,6 @@
 {
-  "extends": "@ignite-ui/ts-config/react.json",
-  "include": ["src"]
+  "extends": "@spaceghost-ui/ts-config/react.json",
+  "include": [
+    "src"
+  ]
 }

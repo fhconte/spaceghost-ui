@@ -1,4 +1,4 @@
-# @ignite-ui/react
+# @spaceghost-ui/react
 
 ## 1.0.1
 
