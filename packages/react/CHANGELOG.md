@@ -1,5 +1,11 @@
 # @spaceghost-ui/react
 
+## 1.0.2
+
+### Patch Changes
+
+- Hello World!
+
 ## 1.0.1
 
 ### Patch Changes
