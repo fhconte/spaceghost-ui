@@ -1,0 +1,2 @@
+import{A as t}from"./index.e27745c3.js";import"./index.99ddf91f.js";import"./iframe.6dbf2938.js";import"./extends.bd401154.js";import"./index.259c5312.js";import"./jsx-runtime.1fcf0982.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://mdbcdn.b-cdn.net/img/new/avatars/2.webp",alt:"Space Ghost User"},argTypes:{src:{control:{type:"text"}}}},c={},m={args:{src:void 0}},n=["Primary","WithFallback"];export{c as Primary,m as WithFallback,n as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.cc318c08.js.map
